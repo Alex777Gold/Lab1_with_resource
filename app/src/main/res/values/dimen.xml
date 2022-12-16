@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textSize">15sp</dimen>
+    <dimen name="textSizename">25sp</dimen>
+    <dimen name="layout_marginTop">80sp</dimen>
+    <dimen name="ems">10</dimen>
+    <dimen name="layout_marginTop_500">500sp</dimen>
+    <dimen name="layout_marginTop_300">300sp</dimen>
+    <dimen name="layout_marginTop_230">230sp</dimen>
+    <dimen name="layout_marginTop_200">200sp</dimen>
+    <dimen name="layout_marginTop_160">160sp</dimen>
+    <dimen name="layout_marginTop_140">140sp</dimen>
+    <dimen name="layout_marginTop_120">120sp</dimen>
+    <dimen name="layout_marginTop_100">100sp</dimen>
+    <dimen name="layout_marginTop_80">80sp</dimen>
+    <dimen name="layout_marginTop_60">60sp</dimen>
+    <dimen name="layout_marginTop_30">30sp</dimen>
+    <dimen name="layout_marginTop_20">20sp</dimen>
+    <dimen name="layout_width">409sp</dimen>
+</resources>

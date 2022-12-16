@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/textSizename"
+        android:text="Pischur Dmitro KIt-211"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/layout_marginTop_20"
+        />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/layout_marginTop_60"
+        android:onClick="Button_length"
+        android:text="length"
+        android:textSize="@dimen/layout_marginTop_20" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/layout_marginTop_100"
+        android:onClick="Button_weight"
+        android:text="weight"
+        android:textSize="@dimen/layout_marginTop_20" />
+
+    <Button
+
+        android:id="@+id/button4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/layout_marginTop_140"
+        android:onClick="Button_temperature"
+        android:text="temperature"
+        android:textSize="@dimen/layout_marginTop_20" />
+
+    <Button
+        android:id="@+id/button_frag"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/layout_marginTop_230"
+        android:onClick="Button"
+        android:text="Button Fragment"
+        android:textSize="@dimen/layout_marginTop_20" />
+
+    <androidx.fragment.app.FragmentContainerView
+        android:id="@+id/fragmen"
+        android:name="com.example.lab1.BlankFragment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="250sp"
+        />
+
+</RelativeLayout>

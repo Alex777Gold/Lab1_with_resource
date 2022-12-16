@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LengthActivity">
+
+    <EditText
+        android:id="@+id/editTextTextPersonName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="@dimen/ems"
+        android:inputType="textPersonName"
+        android:text="0"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/layout_marginTop_30"
+    />
+
+    <Spinner
+        android:id="@+id/spinner"
+        android:layout_width="@dimen/layout_width"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/layout_marginTop_100"
+        />
+
+    <Spinner
+        android:id="@+id/spinner2"
+        android:layout_width="@dimen/layout_width"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/layout_marginTop_120"
+        />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Length convertor"
+        android:textSize="@dimen/textSize"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/layout_marginTop_160"
+        />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Button"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/layout_marginTop_200"
+        />
+
+    <TextView
+        android:id="@+id/activity_length"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Test"
+        android:textSize="@dimen/textSize"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/layout_marginTop_300"
+        />
+
+</RelativeLayout>

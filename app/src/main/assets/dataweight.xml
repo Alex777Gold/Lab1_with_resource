@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<weights>
+    <weight>
+        <kilogram>0.001</kilogram>
+        <gram>1</gram>
+        <tonna>0.000001</tonna>
+        <carat>5</carat>
+        <foont>0.00220462</foont>
+        <pud>0.000061047</pud>
+        <nkilogramm>1000</nkilogramm>
+        <ntonna>100000</ntonna>
+        <ncarat>0.2</ncarat>
+        <nfoont>453.592</nfoont>
+        <npud>16380.7</npud>
+    </weight>
+</weights>
