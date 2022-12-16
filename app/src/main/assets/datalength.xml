@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<lengths>
+    <length>
+        <meter>0.01</meter>
+        <centimeter>1.00</centimeter>
+        <kilometer>0.00001</kilometer>
+        <inch>0.393701</inch>
+        <foot>0.0328084</foot>
+        <mile>0.0000062137</mile>
+        <yard>0.0109361</yard>
+        <nmeter>100</nmeter>
+        <nkilometer>100000</nkilometer>
+        <ninch>2.54</ninch>
+        <nfoot>30.48</nfoot>
+        <nmile>160934</nmile>
+        <nyard>91.44</nyard>
+    </length>
+</lengths>
