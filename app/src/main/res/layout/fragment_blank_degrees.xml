@@ -9,7 +9,7 @@
         android:id="@+id/textView6"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Temperature convertor"
+        android:text="@string/tempconvertor"
         android:textSize="@dimen/textSize"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="@dimen/layout_marginTop" />

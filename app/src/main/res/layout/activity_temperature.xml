@@ -10,7 +10,7 @@
         android:id="@+id/textView6"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Temperature convertor"
+        android:text="@string/tempconvertor"
         android:textSize="@dimen/textSize"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="@dimen/layout_marginTop_80" />
@@ -21,7 +21,7 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="0"
+        android:text="@string/startnum"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="@dimen/layout_marginTop_30"
         />
@@ -44,7 +44,7 @@
         android:id="@+id/button6"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Button"
+        android:text="@string/button"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="@dimen/layout_marginTop_200" />
 
@@ -52,7 +52,7 @@
         android:id="@+id/activity_temperature"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Test"
+        android:text="@string/test"
         android:textSize="@dimen/textSize"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="@dimen/layout_marginTop_300"
@@ -62,7 +62,7 @@
         android:id="@+id/service"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Started"
+        android:text="@string/started"
         android:textSize="@dimen/textSize"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="@dimen/layout_marginTop_500"

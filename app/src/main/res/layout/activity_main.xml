@@ -11,7 +11,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSizename"
-        android:text="Pischur Dmitro KIt-211"
+        android:text="@string/name"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="@dimen/layout_marginTop_20"
         />
@@ -23,7 +23,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="@dimen/layout_marginTop_60"
         android:onClick="Button_length"
-        android:text="length"
+        android:text="@string/length"
         android:textSize="@dimen/layout_marginTop_20" />
 
     <Button
@@ -33,7 +33,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="@dimen/layout_marginTop_100"
         android:onClick="Button_weight"
-        android:text="weight"
+        android:text="@string/weight"
         android:textSize="@dimen/layout_marginTop_20" />
 
     <Button
@@ -44,7 +44,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="@dimen/layout_marginTop_140"
         android:onClick="Button_temperature"
-        android:text="temperature"
+        android:text="@string/temperature"
         android:textSize="@dimen/layout_marginTop_20" />
 
     <Button
@@ -54,7 +54,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="@dimen/layout_marginTop_230"
         android:onClick="Button"
-        android:text="Button Fragment"
+        android:text="@string/butfrag"
         android:textSize="@dimen/layout_marginTop_20" />
 
     <androidx.fragment.app.FragmentContainerView

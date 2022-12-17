@@ -11,4 +11,17 @@
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="button">Button</string>
+    <string name="tempconvertor">Temperature convertor</string>
+    <string name="butfrag">Button Fragment</string>
+    <string name="temperature">temperature</string>
+    <string name="length">length</string>
+    <string name="weight">weight</string>
+    <string name="name">Pischur Dmitro KIt-211</string>
+    <string name="startnum">0</string>
+    <string name="lengthconvertor">Length convertor</string>
+    <string name="weightconvertor">Weight convertor</string>
+    <string name="test">Test</string>
+    <string name="started">Started</string>
 </resources>
